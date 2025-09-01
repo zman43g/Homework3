@@ -9,6 +9,7 @@ public class Main {
         float f = -56.52f;
         double bigNum = 98721.999201;
 
+
         System.out.println("Задача 1");
         System.out.println("Значение переменной a с типом int равно " + a);
         System.out.println("Значение переменной b с типом byte равно " + b);
