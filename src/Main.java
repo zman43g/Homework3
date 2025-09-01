@@ -7,7 +7,7 @@ public class Main {
         short c = -1000;
         long d = 188651L;
         float f = -56.52f;
-        double bigNum = 98721.999201;
+        double bigNum = 98721.999201 ;
 
         System.out.println("Значение переменной a с типом int равно " + a);
         System.out.println("Значение переменной b с типом byte равно " + b);
@@ -24,6 +24,7 @@ public class Main {
         short b5 = -159;
         short b6 = 27897;
         byte b7 = 67;
+
 
         byte teacher1 = 23;
         byte teacher2 = 27;
